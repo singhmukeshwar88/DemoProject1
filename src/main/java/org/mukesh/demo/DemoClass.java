@@ -11,6 +11,8 @@ public class DemoClass {
 		
 		System.out.println("checkin from origin develop branch");
 		
+		System.out.println("Demo commit from origin develop branch");
+		
 
 	}
 
