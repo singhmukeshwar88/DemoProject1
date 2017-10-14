@@ -7,6 +7,8 @@ public class DemoClass {
 		
 		System.out.println("demo class main function");
 		
+		System.out.println("checkin from origin develop branch");
+		
 
 	}
 
