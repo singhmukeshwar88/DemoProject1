@@ -15,6 +15,8 @@ public class DemoClass {
 		
 		System.out.println("Student Details merge conflicts");
 		
+		System.out.println("Merging without conflict");
+		
 
 	}
 
