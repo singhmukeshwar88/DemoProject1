@@ -7,6 +7,7 @@ public class DemoClass {
 		
 		System.out.println("demo class main function");
 		
+		System.out.println("commited from master branch");		
 
 	}
 
