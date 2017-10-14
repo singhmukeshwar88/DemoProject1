@@ -6,8 +6,15 @@ public class DemoClass {
 		// TODO Auto-generated method stub
 		
 		System.out.println("demo class main function");
+		System.out.println("commited from master branch");
+		System.out.println("Check In from develop branch");
 		
-		System.out.println("commited from master branch");		
+		System.out.println("checkin from origin develop branch");
+		
+		System.out.println("Demo commit from origin develop branch");
+		
+		System.out.println("Student Details merge conflicts");
+		
 
 	}
 
