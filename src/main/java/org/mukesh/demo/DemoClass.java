@@ -13,6 +13,8 @@ public class DemoClass {
 		
 		System.out.println("Demo commit from origin develop branch");
 		
+		System.out.println("Student Details merge conflicts");
+		
 
 	}
 
